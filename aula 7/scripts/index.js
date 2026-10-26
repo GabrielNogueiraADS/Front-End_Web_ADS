@@ -2,7 +2,7 @@ function executar(evento) {
     evento.preventDefault();
 
     limparForm();
-    validarForm():
+    validarForm();
 }
 function validarForm(){
 
